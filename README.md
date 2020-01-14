@@ -30,12 +30,7 @@ cd flutter_eCommerce_ui_kit && flutter packages get
 
 ## Looking for Flutter Developer ?
 
-I can translate you idea to Mobile Application. Hire me [Upwork](https://www.upwork.com/fl/muhammadfurqan)
-
-## Contributing
-
-If you find any problems, please [open an issue](https://github.com/Furqankhanzada/flutter_eCommerce_ui_kit/issues/new) or submit a fix as a pull request.
-
+I can translate you idea to Mobile Application. Hire me [Facebook](https://www.facebook.com/rashedulalam.jacky)
 
 ## License
 
